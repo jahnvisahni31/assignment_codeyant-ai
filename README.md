@@ -1,7 +1,7 @@
 # CodeAnt AI Project Assignment
 
 ## 🔗 Live Demo
-[View Live Demo]()
+[View Live Demo](https://assignment-codeyant-ai-uwhs.vercel.app/)
 
 ## 📝 Overview
 This is a frontend project developed as part of the internship assignment for CodeAnt AI. The application showcases modern web development practices using React and various UI libraries.
