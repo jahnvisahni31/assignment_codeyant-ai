@@ -1,15 +1,6 @@
 # CodeAnt AI Project Assignment
 
-# Images of the App :memo:
-![Image 1](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/1.png?raw=true)
-![Image 2](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/2.png?raw=true)
-![Image 3](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/3.png?raw=true)
-![Image 4](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/4.png?raw=true)
-![Image 5](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/5.png?raw=true)
-
-
 # References
-- **Chat GPT**
 - **V0(by vercel)**
 - **YouTube**
 - **Shadcn documentation**
@@ -17,7 +8,6 @@
 ## Overview
 This is the given assignment for a frontend internship at CodeAnt AI.
 
-## Check the video for the brief of the project without running here  -> [Link](https://youtu.be/RxTaOd8njWU) ⭐
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
@@ -39,7 +29,7 @@ Ensure you have the following installed on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Neel-max-cpu/project_assignment.git
+git clone https://github.com/jahnvisahni98/assignment_codeyant-ai.git
 ```
 
 ### Step 2: Navigate to the Project Directory
