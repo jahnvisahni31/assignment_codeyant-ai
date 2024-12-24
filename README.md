@@ -1,53 +1,68 @@
 # CodeAnt AI Project Assignment
 
-# References
-- **V0(by vercel)**
-- **YouTube**
-- **Shadcn documentation**
+## 🔗 Live Demo
+[View Live Demo]()
 
-## Overview
-This is the given assignment for a frontend internship at CodeAnt AI.
+## 📝 Overview
+This is a frontend project developed as part of the internship assignment for CodeAnt AI. The application showcases modern web development practices using React and various UI libraries.
 
-
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-
-
-## Technologies Used
-- **Frontend**: React.js+vite
-- **Styling**: Shadcn Ui, Material Ui and custom Tailwind CSS for responsive design
+## 🛠️ Technologies Used
+- **Frontend**: React.js + Vite
+- **Styling**: 
+  - Shadcn UI
+  - Material UI
+  - Custom Tailwind CSS for responsive design
 - **Version Control**: Git & GitHub
+- **Deployment**: Vercel
 
-## Installation
+## ⚙️ Installation
 
 ### Prerequisites
 Ensure you have the following installed on your machine:
 - Node.js (v14 or later)
 - npm (Node Package Manager)
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/jahnvisahni98/assignment_codeyant-ai.git
-```
+### Setup Instructions
 
-### Step 2: Navigate to the Project Directory
-Change into the project directory:
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/jahnvisahni98/assignment_codeyant-ai.git
+   ```
 
+2. **Navigate to Project Directory**
+   ```bash
+   cd assignment_codeyant-ai
+   ```
 
-### Step 3: Install Dependencies
-Run the following command to install the necessary dependencies for the frontend:
-```
-npm install
-```
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
 
-## How to Run
-### Step 1: Start the Frontend
-In a new terminal window, navigate to the client directory and start the React application:
-```
-npm run dev
-```
+## 🚀 How to Run
 
-### Step 2: Access the Application
-Open your web browser and go to http://localhost:5173/ to access the App.
+1. **Start the Development Server**
+   ```bash
+   npm run dev
+   ```
+
+2. **Access the Application**
+   - Open your web browser
+   - Navigate to `http://localhost:5173/`
+
+## 📚 References
+- V0 (by Vercel)
+- YouTube
+- Shadcn Documentation
+
+## 💡 Features
+- Modern UI/UX design
+- Responsive layout
+- Component-based architecture
+- Integration of multiple UI libraries
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
